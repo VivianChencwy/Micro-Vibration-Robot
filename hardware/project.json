@@ -1,0 +1,770 @@
+{
+  "schematics": {},
+  "pcbs": {
+    "430e69f8ec9b49228d38aa20e9d7160f": "振动机器人"
+  },
+  "panels": {},
+  "symbols": {},
+  "footprints": {
+    "d15eda3c0fe4453c8fc2b8726bde8f76": {
+      "title": "LED-SMD_4P-L2.0-W2.0-TL_WS2812B-2020",
+      "source": "6c7062bb97ee88c43ab3c023e73506da",
+      "version": "ce1b377c27679a0c287eefb065fb3794",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "5c6d579d29994941a1bff2cee687ee78": {
+      "title": "LED0603-RD",
+      "source": "4b83e0290a787bdaa802a40bc1846f5e",
+      "version": "eca0c71291b76a0164f1bcf6fa2a9ded",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "c3e92daef9c74c22a82ce3f8d7ff31f0": {
+      "title": "C0603",
+      "source": "4d75cc537baba5fdeb0a4050a4431bee",
+      "version": "e16bd54a904e324a8ccd89e386d21545",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "aa1c1ead4d4c4cc083c22f35f9cc090e": {
+      "title": "R0603",
+      "source": "e83e314991e48aee62e2db43678e87c9",
+      "version": "10c14ebcbed002ee98dbf06b071c2ee1",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "2c98d735bcc94ef49874b8183a0f6bba": {
+      "title": "SW-SMD_3P-L9.1-W3.5-P2.50-EH6.8",
+      "source": "20752435dc28eacb433b589f06a80e84",
+      "version": "bf3be0f80b8458f9a3f14de9d193908f",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "fcef45164d7f4e889508ca50f600745f": {
+      "title": "SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR",
+      "source": "23d0e31d3bf3312c3b1d79d9bcd043b5",
+      "version": "74195b93200da3dc3760b59745e5a229",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "ef15a5bfa2ac4f6cb93531dedb6d9015": {
+      "title": "SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR",
+      "source": "5f868b41a4af355e8b239c41cc43a142",
+      "version": "99ce22ab71fd50892edc03939233908c",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "2ed9690a6a214581afa6e4eb16e2bb54": {
+      "title": "电容形电池",
+      "source": "8070aaeacf73edd84591238ff4bc3ce7",
+      "version": "db24f8ce948f86ef4330ff1b0bce683e",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "1e93f9372cc34020968eeb801b1df8d3": {
+      "title": "USB-SMD_TYPE-C16PIN-1焊盘加长",
+      "source": "c8b9b5c11ce4af83bdddb13f46ac4f7e",
+      "version": "f586f64d3b8caa265809efd92baa129f",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "5cab6938fb964683a2b69183028c0177": {
+      "title": "KEY-SMD_1TS003B",
+      "source": "2850c6707490a7ca904f77869e5f772b",
+      "version": "41911f339efcccbd6bf1c561e177a533",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "18086a754cfe43ad886481b0c9e47ef1": {
+      "title": "HDR-F-2.54_1X2",
+      "source": "374142ba7d1e31056cebe510e544e586",
+      "version": "4f4753e625f28cfce9022faab1fd66c5",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "b9d08ea8cc2f4310a2fc03134e07abbe": {
+      "title": "SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR",
+      "source": "b804d8e230bb95b15ad1189032a98949",
+      "version": "2058b54ca9c07e7376c9ee694aaea4d1",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "90ebb46df43048b3b309ca22d7ef5609": {
+      "title": "R0603",
+      "source": "e83e314991e48aee62e2db43678e87c9",
+      "version": "fe4dd4e3aa9777d6408ac4c3435a7132",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "1d6b5059c5dc4c2f996ac70746bae1a5": {
+      "title": "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+      "source": "a3c10d46c4462260422b589ab441707d",
+      "version": "f2137af8873fa37f2965cf76b979d959",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "bbfd3342bbb449ac95771d6d598b44e4": {
+      "title": "SOP-16_L10.0-W3.9-P1.27-LS6.0-BL",
+      "source": "aada300779e3438d5581040d05e60bd1",
+      "version": "aad8236094f46fc1cd61558afa309926",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "5acb80e4d43f4aa7b0e8a35781f7a222": {
+      "title": "ESP-01F",
+      "source": "7d69234603517fe804d12f43d160b076",
+      "version": "a31e5d0749fbd5bc9b3c84d15375f5fb",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    }
+  },
+  "devices": {
+    "fd895ccbe41d4e9db4963198ac6a5664": {
+      "title": "WS2812B-2020",
+      "attributes": {
+        "link": "https://item.szlcsc.com/1051115.html?ref=editor&logined=true",
+        "3DModel": "LED-SMD_4P-L2.0-W2.0-H0.8-TL_WS2812B-2020",
+        "Supplier": "LCSC",
+        "Supplier Part": "C965555",
+        "Manufacturer": "Worldsemi",
+        "JLCPCB Part Class": "ExtendedPart",
+        "Symbol": "",
+        "Footprint": "d15eda3c0fe4453c8fc2b8726bde8f76",
+        "Name": "WS2812B-2020",
+        "Designator": "LED?",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "da1019f0c8fb7e351a9cc9040e1075f4",
+      "version": "dcad12f01593edda6d05652702c8e252",
+      "custom_tags": ""
+    },
+    "2e6eb2896ad8440b86c5315e47555331": {
+      "title": "red",
+      "attributes": {
+        "link": "https://item.szlcsc.com/347874.html",
+        "3DModel": "LED0603-RD",
+        "Supplier": "LCSC",
+        "Supplier Part": "C497933",
+        "Manufacturer": "HONGLITRONIC(HongliZhihui(HONGLITRONIC))",
+        "Symbol": "",
+        "Footprint": "5c6d579d29994941a1bff2cee687ee78",
+        "Name": "red",
+        "Designator": "LED?",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "a2d9547b5d3dd9f05984475f7c926da0",
+      "version": "9d5ebbd03c6379da89f395386b4b5060",
+      "custom_tags": ""
+    },
+    "5b246f9d060448c7b12cf3632ba0451e": {
+      "title": "105pf1uf",
+      "attributes": {
+        "link": "https://item.szlcsc.com/362304.html",
+        "3DModel": "C0603_L1.6-W0.8-H0.8",
+        "Supplier": "LCSC",
+        "Supplier Part": "C458880",
+        "Manufacturer": "WalsinTechCorp",
+        "Symbol": "",
+        "Footprint": "c3e92daef9c74c22a82ce3f8d7ff31f0",
+        "Name": "105pf1uf",
+        "Designator": "C?",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "e6f6e78c97d56c5faf2b845cf98b3310",
+      "version": "131dacef0612f8446026cd4abb3389fe",
+      "custom_tags": ""
+    },
+    "a6a0de5e86c0463ea97da2b45e083a34": {
+      "title": "226pf22uf",
+      "attributes": {
+        "link": "https://item.szlcsc.com/362304.html",
+        "3DModel": "C0603_L1.6-W0.8-H0.8",
+        "Supplier": "LCSC",
+        "Supplier Part": "C458880",
+        "Manufacturer": "WalsinTechCorp",
+        "Symbol": "",
+        "Footprint": "c3e92daef9c74c22a82ce3f8d7ff31f0",
+        "Name": "226pf22uf",
+        "Designator": "C?",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "a96a1a83ab4384187f0ba0d5c665c59b",
+      "version": "131dacef0612f8446026cd4abb3389fe",
+      "custom_tags": ""
+    },
+    "6a35f140749748b39569d7f37214eef9": {
+      "title": "104pf0.1uf",
+      "attributes": {
+        "link": "https://item.szlcsc.com/362304.html",
+        "3DModel": "C0603_L1.6-W0.8-H0.8",
+        "Supplier": "LCSC",
+        "Supplier Part": "C458880",
+        "Manufacturer": "WalsinTechCorp",
+        "Symbol": "",
+        "Footprint": "c3e92daef9c74c22a82ce3f8d7ff31f0",
+        "Name": "104pf0.1uf",
+        "Designator": "C?",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "8fc8403780e860a2faeb1dc5bc29ae65",
+      "version": "131dacef0612f8446026cd4abb3389fe",
+      "custom_tags": ""
+    },
+    "fbe6b724a0f64c53a361088bf8223d03": {
+      "title": "106pf10uf",
+      "attributes": {
+        "link": "https://item.szlcsc.com/362304.html",
+        "3DModel": "C0603_L1.6-W0.8-H0.8",
+        "Supplier": "LCSC",
+        "Supplier Part": "C458880",
+        "Manufacturer": "WalsinTechCorp",
+        "Symbol": "",
+        "Footprint": "c3e92daef9c74c22a82ce3f8d7ff31f0",
+        "Name": "106pf10uf",
+        "Designator": "C?",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "a781cb44af327c0b7cd8436a025b3a90",
+      "version": "131dacef0612f8446026cd4abb3389fe",
+      "custom_tags": ""
+    },
+    "0ff6828f79d24316ade2499bdca1a246": {
+      "title": "1K",
+      "attributes": {
+        "3DModel": "R0603_L1.6-W0.8-H0.8",
+        "link": "https://www.mouser.in/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_11-1669912.pdf",
+        "Supplier": "LCSC",
+        "Manufacturer": "UniOhm",
+        "Supplier Part": "C17513",
+        "JLCPCB Part Class": "Basic",
+        "Symbol": "",
+        "Footprint": "aa1c1ead4d4c4cc083c22f35f9cc090e",
+        "Name": "1K",
+        "Designator": "R?",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "aee1833a891f29956b6ca6b635b33b48",
+      "version": "55bd1a9728060a95acf264794d5fd071",
+      "custom_tags": ""
+    },
+    "4ea8e870980f4c7f8e8cc45121689be6": {
+      "title": "TA-3525-A1",
+      "attributes": {
+        "link": "https://item.szlcsc.com/529154.html?ref=editor&logined=true",
+        "3DModel": "SW-SMD_3P-L9.1-W3.5-P2.50-EH6.8",
+        "Supplier": "LCSC",
+        "Supplier Part": "C514018",
+        "Manufacturer": "Yuandi",
+        "JLCPCB Part Class": "ExtendedPart",
+        "Symbol": "",
+        "Footprint": "2c98d735bcc94ef49874b8183a0f6bba",
+        "Name": "TA-3525-A1",
+        "Designator": "SW?",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "05025870589aa07532a2e3c339def19c",
+      "version": "a01d5e26b0763626e896ec948aecdf6a",
+      "custom_tags": ""
+    },
+    "563f7a722ad74fb49567b3a0e757c17f": {
+      "title": "TP4059",
+      "attributes": {
+        "link": "https://item.szlcsc.com/169042.html",
+        "3DModel": "SOT-23-6_L2.9-W1.6-H1.5-LS2.8-P0.95",
+        "Supplier": "LCSC",
+        "Manufacturer": "TOPPOWER",
+        "Supplier Part": "C80364",
+        "JLCPCB Part Class": "ExtendedPart",
+        "Symbol": "",
+        "Footprint": "fcef45164d7f4e889508ca50f600745f",
+        "Name": "TP4059",
+        "Designator": "U?",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "e649725cf416d82a9df64e87e0e7987e",
+      "version": "15201ae57ba7897d9158eacf1688abb3",
+      "custom_tags": ""
+    },
+    "adf14a69ac294df683bb4674cc4e7685": {
+      "title": "ESP01F",
+      "attributes": {
+        "Description": "ESP8266Wifimodule01",
+        "Symbol": "",
+        "Footprint": "5acb80e4d43f4aa7b0e8a35781f7a222",
+        "Name": "ESP01F",
+        "Designator": "U?",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "79bd94533e6144483a5d0c67807108e5",
+      "version": "85c79520f02dc8564969ca35e847bd73",
+      "custom_tags": ""
+    },
+    "2abc93bac8dc4f5c950b1a77226b6128": {
+      "title": "RT9193-33GB",
+      "attributes": {
+        "link": "https://item.szlcsc.com/236104.html",
+        "3DModel": "SOT-23-5_L2.9-W1.6-H1.1-LS2.8-P0.95",
+        "Supplier": "LCSC",
+        "Manufacturer": "RICHTEK",
+        "image": "//image.lceda.cn/szlcsc/C15651.jpg",
+        "Supplier Part": "C15651",
+        "JLCPCB Part Class": "Extend",
+        "JLCPCB SMD": "Yes",
+        "Symbol": "",
+        "Footprint": "ef15a5bfa2ac4f6cb93531dedb6d9015",
+        "Name": "RT9193-33GB",
+        "Designator": "U?",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "2ce1435818451e32fdd1d6bf8a7a44cb",
+      "version": "0f880e09f77a3f16ffc42787e980dfb1",
+      "custom_tags": ""
+    },
+    "ef48b329d53c4b3cb23b96eca14d1587": {
+      "title": "电容形电池",
+      "attributes": {
+        "link": "",
+        "Manufacturer": "",
+        "Supplier Part": "",
+        "Supplier": "",
+        "Symbol": "",
+        "Footprint": "2ed9690a6a214581afa6e4eb16e2bb54",
+        "Name": "电容形电池",
+        "Designator": "U?",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "8070aaeacf73edd84591238ff4bc3ce7",
+      "version": "261ed38686cdcfc588dcbe04fa5c8607",
+      "custom_tags": ""
+    },
+    "23b67fa07bcd49048c04c8bac8a5cb62": {
+      "title": "TYPE-C16PIN",
+      "attributes": {
+        "link": "https://img.jlc.com/pdf/applyPasteComponent/2021-09-03/1079750A/c95ed4af7b50452ca47db86a77a531c1/TYPE-C16PIN%E6%AF%8D%E5%BA%A75A%E5%A4%A7%E7%94%B5%E6%B5%81.pdf",
+        "3DModel": "USB-SMD_TYPE-C16PIN-1",
+        "Supplier": "LCSC",
+        "Supplier Part": "C393939",
+        "Manufacturer": "SHOUHAN",
+        "Symbol": "",
+        "Footprint": "1e93f9372cc34020968eeb801b1df8d3",
+        "Name": "TYPE-C16PIN",
+        "Designator": "USB?",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "f4f2e77a7348ef238c8ac9ba93d0a88f",
+      "version": "8ee8892182377eae05e72c4910a1d5b3",
+      "custom_tags": ""
+    },
+    "97fa1b33415f4f1d824174cbae034bc9": {
+      "title": "侧按侧贴开关",
+      "attributes": {
+        "link": "https://item.szlcsc.com/300402.html",
+        "3DModel": "KEY-SMD_L4.6-W2.3-H1.8-P3.4",
+        "Supplier": "LCSC",
+        "Supplier Part": "C319401",
+        "Manufacturer": "HYP",
+        "Symbol": "",
+        "Footprint": "5cab6938fb964683a2b69183028c0177",
+        "Name": "侧按侧贴开关",
+        "Designator": "IO?",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "07ce2ea08de385eaa1c552ab45290713",
+      "version": "e38a9476036bff1965994f053a59119a",
+      "custom_tags": ""
+    },
+    "6752e8c22173462b93a9a6a46870f26a": {
+      "title": "HDR-F-2.54_1x2",
+      "attributes": {
+        "3DModel": "HDR-F-2.54_1x2",
+        "Supplier Part": "C49661",
+        "Supplier": "LCSC",
+        "Manufacturer": "",
+        "image": "",
+        "Symbol": "",
+        "Footprint": "18086a754cfe43ad886481b0c9e47ef1",
+        "Name": "HDR-F-2.54_1x2",
+        "Designator": "M?",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "374142ba7d1e31056cebe510e544e586",
+      "version": "cc434ad0bbe64d1b358ce4a8f7990e0a",
+      "custom_tags": ""
+    },
+    "6d0b02e735af46f9998794bbfbef7b55": {
+      "title": "AO3400A",
+      "attributes": {
+        "link": "https://item.szlcsc.com/14454.html",
+        "3DModel": "SOT-23-3L_L2.9-W1.6-H1.1-LS2.8-P0.95",
+        "Supplier": "LCSC",
+        "Manufacturer": "AOS",
+        "Supplier Part": "C20917",
+        "JLCPCB Part Class": "BasicPart",
+        "Symbol": "",
+        "Footprint": "b9d08ea8cc2f4310a2fc03134e07abbe",
+        "Name": "AO3400A",
+        "Designator": "Q?",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "76e19d5bfa2c3947af13a79f420aab82",
+      "version": "c70dab531e4cb7f1175067a1ec2bc89a",
+      "custom_tags": ""
+    },
+    "e1bc4488cd8b4c7d82d579be6e675b88": {
+      "title": "4.7K",
+      "attributes": {
+        "3DModel": "R0603_L1.6-W0.8-H0.8",
+        "link": "https://www.mouser.in/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_11-1669912.pdf",
+        "Supplier": "LCSC",
+        "Manufacturer": "UniOhm",
+        "Supplier Part": "C17513",
+        "JLCPCB Part Class": "Basic",
+        "Symbol": "",
+        "Footprint": "aa1c1ead4d4c4cc083c22f35f9cc090e",
+        "Name": "4.7K",
+        "Designator": "R?",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "60a31ca347c9c442cede08b2c9c8bacd",
+      "version": "55bd1a9728060a95acf264794d5fd071",
+      "custom_tags": ""
+    },
+    "0114150863cd4fd99f0715d2b5cf3b39": {
+      "title": "10K",
+      "attributes": {
+        "link": "https://item.szlcsc.com/137208.html",
+        "3DModel": "R0603_L1.6-W0.8-H0.8",
+        "Supplier": "LCSC",
+        "Supplier Part": "C557711",
+        "Manufacturer": "SANYEAR",
+        "Symbol": "",
+        "Footprint": "90ebb46df43048b3b309ca22d7ef5609",
+        "Name": "10K",
+        "Designator": "R?",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "ad039decc20ecd7bdf5014346f2875ed",
+      "version": "3d0f2a5ef6782c1b043f07ca29d65978",
+      "custom_tags": ""
+    },
+    "4ae2f5e6893e4f85ad523e7e48cabaca": {
+      "title": "10K",
+      "attributes": {
+        "3DModel": "R0603_L1.6-W0.8-H0.8",
+        "link": "https://www.mouser.in/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_11-1669912.pdf",
+        "Supplier": "LCSC",
+        "Manufacturer": "YAGEO",
+        "Supplier Part": "C137705",
+        "JLCPCB Part Class": "ExtendedPart",
+        "Symbol": "",
+        "Footprint": "aa1c1ead4d4c4cc083c22f35f9cc090e",
+        "Name": "10K",
+        "Designator": "R?",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "ad039decc20ecd7bdf5014346f2875ed",
+      "version": "55bd1a9728060a95acf264794d5fd071",
+      "custom_tags": ""
+    },
+    "ffb3831292dc4fcfa045ff0e6e63ea6a": {
+      "title": "33K",
+      "attributes": {
+        "3DModel": "R0603_L1.6-W0.8-H0.8",
+        "link": "https://www.mouser.in/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_11-1669912.pdf",
+        "Supplier": "LCSC",
+        "Manufacturer": "YAGEO",
+        "Supplier Part": "C137705",
+        "JLCPCB Part Class": "ExtendedPart",
+        "Symbol": "",
+        "Footprint": "aa1c1ead4d4c4cc083c22f35f9cc090e",
+        "Name": "33K",
+        "Designator": "R?",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "80b488ab500efbfc533845ebca2f1410",
+      "version": "55bd1a9728060a95acf264794d5fd071",
+      "custom_tags": ""
+    },
+    "f8691b101e0e41e4912ee36617f7760e": {
+      "title": "SS8050",
+      "attributes": {
+        "link": "https://www.diodes.com/assets/Package-Files/SOT23.pdf",
+        "3DModel": "SOT-23-3P_L2.9-W1.3-H1.0-LS2.4-P0.95",
+        "Supplier": "LCSC",
+        "Supplier Part": "C908250",
+        "Manufacturer": "FUXINSEMI",
+        "JLCPCB Part Class": "ExtendedPart",
+        "Symbol": "",
+        "Footprint": "1d6b5059c5dc4c2f996ac70746bae1a5",
+        "Name": "SS8050",
+        "Designator": "Q?",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "3d18239522f05abd9786f475bbe59ec5",
+      "version": "a923f7929fcfc90a5be705d54b745cbc",
+      "custom_tags": ""
+    },
+    "bdfe1af812f1403d8b5798bec8f7d1b3": {
+      "title": "CH340C",
+      "attributes": {
+        "link": "https://item.szlcsc.com/391677.html",
+        "Supplier Part": "C84681",
+        "Supplier": "LCSC",
+        "Manufacturer": "WCH",
+        "3DModel": "SOP-16_L9.9-W3.9-H1.5-LS6.0-P1.27",
+        "JLCPCB Part Class": "Extend",
+        "JLCPCB SMD": "Yes",
+        "Symbol": "",
+        "Footprint": "bbfd3342bbb449ac95771d6d598b44e4",
+        "Name": "CH340C",
+        "Designator": "U?",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "c68ac22dde7c6ff49722f25a228d1649",
+      "version": "3707a03d31378b7178c5afbb604c36fb",
+      "custom_tags": ""
+    }
+  },
+  "boards": {},
+  "config": {
+    "title": "振动机器人",
+    "cbbProject": false,
+    "defaultSheet": "",
+    "editorVersion": "2.0.30.0bf95a9f.56a808"
+  }
+}
