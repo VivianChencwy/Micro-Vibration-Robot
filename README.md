@@ -10,10 +10,6 @@ This project develops a **micro vibrating robot** controlled via computer vision
 - **Hardware Design**: Custom PCB with ESP01F, CH340C USB-to-serial, TP4059 charging circuit, and 3.3V LDO.
 - **Scalable Swarm Control**: Foundation for dynamic path planning of multiple robots.
 
-## Why It Matters
-
-Swarm robotics leverages coordinated robot groups for tasks like exploration or surveillance. This project focuses on a single micro-robot's motion control using vision-based feedback, laying the groundwork for scalable swarm behaviors.
-
 ## Implementation
 
 ### Hardware
